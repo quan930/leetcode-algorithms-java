@@ -2,6 +2,10 @@ package app.mrquan.question42;
 
 import java.util.Stack;
 
+/**
+ * 42
+ * 接雨水
+ */
 public class Solution {
     public int trap(int[] height) {
         int sum = 0;
