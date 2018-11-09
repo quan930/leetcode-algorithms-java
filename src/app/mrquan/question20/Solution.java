@@ -1,9 +1,9 @@
-package app.mrquan.question22;
+package app.mrquan.question20;
 
 import java.util.Stack;
 
 /**
- * 22 括号匹配
+ * 20 括号匹配
  * 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
  *
  * 有效字符串需满足：
