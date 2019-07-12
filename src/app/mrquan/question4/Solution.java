@@ -7,6 +7,7 @@ import java.util.Stack;
 /**
  *  4. 寻找两个有序数组的中位数
  *  Median of Two Sorted Arrays
+ *  归并排序
  */
 public class Solution {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
