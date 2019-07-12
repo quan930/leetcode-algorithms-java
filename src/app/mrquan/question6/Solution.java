@@ -7,7 +7,7 @@ package app.mrquan.question6;
  * ZigZag Conversion
  */
 public class Solution {
-    public static String convert(String s, int numRows) {
+    public String convert(String s, int numRows) {
         if (s.length()==0)
             return "";
         StringBuilder stringBuilder = new StringBuilder();
@@ -39,9 +39,5 @@ public class Solution {
             stringBuilder.append(s.charAt(i*group+numRows-1));
         }
         return stringBuilder.toString();
-    }
-
-    public static void main(String[] args) {
-        System.out.println("a"+convert("A",1));
     }
 }
