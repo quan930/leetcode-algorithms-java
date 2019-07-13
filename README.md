@@ -6,6 +6,7 @@ leetcode 算法笔记-java
 * [4.寻找两个有序数组的中位数--Median of Two Sorted Arrays](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question4/Solution.java)
 * [5.最长回文子串--Longest Palindromic Substring](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question5/Solution.java)
 * [6.Z 字形变换--ZigZag Conversion](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question6/Solution.java)
+* [7.整数反转--Reverse Integer](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question7/Solution.java)
 * [20. 有效的括号--Valid Parentheses](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question20/Solution.java)
 * [42.接雨水--Trapping Rain Water](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question42/Solution.java)
 * [71. 简化路径--Simplify Path](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question71/Solution.java)
