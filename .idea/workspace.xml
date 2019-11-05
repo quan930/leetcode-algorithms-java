@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="158ddbe6-d879-4c84-b80a-2fe9687e330a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/app/mrquan/question9/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/app/mrquan/question9/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/app/mrquan/question11/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/app/mrquan/question11/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="app.mrquan.question9.Solution" />
       <module name="leetCode" />
@@ -76,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.mrquan.question6.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.mrquan.question12.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="app.mrquan.question6.*" />
+          <option name="PATTERN" value="app.mrquan.question12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,19 +115,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,7 @@
       <workItem from="1562814816748" duration="4756000" />
       <workItem from="1562819742568" duration="14369000" />
       <workItem from="1562943735909" duration="7133000" />
-      <workItem from="1572966730872" duration="1579000" />
+      <workItem from="1572966730872" duration="4431000" />
     </task>
     <servers />
   </component>
