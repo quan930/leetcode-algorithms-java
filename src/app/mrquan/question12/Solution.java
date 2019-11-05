@@ -16,7 +16,6 @@ public class Solution {
         int n;
         for (int i = 1; i <= size; i++) {
             n = (num%(int)(Math.pow(10,i)))/(int)(Math.pow(10,i-1));
-            System.out.println(n);
             if (n<4){
                 for (int j = 0; j < n; j++) {
                     stringBuilder.insert(0,chars[i*2-2]);
