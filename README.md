@@ -19,3 +19,4 @@ leetcode 算法笔记-java
 * [71. 简化路径--Simplify Path](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question84/Solution.java)
 * [155. 最小栈--Min Stack](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/question155/MinStack.java)
+* [堆排序](https://github.com/quan930/leetcode-algorithms-java/blob/master/src/app/mrquan/heapsort/Test.java)
