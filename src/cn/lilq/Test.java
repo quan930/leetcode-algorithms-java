@@ -1,6 +1,6 @@
 package cn.lilq;
 
-import cn.lilq.question18.Solution;
+import cn.lilq.question19.Solution;
 
 import java.util.List;
 
@@ -10,8 +10,6 @@ import java.util.List;
  */
 public class Test {
     public static void main(String[] args) {
-        Solution solution = new Solution();
-        List<List<Integer>> lists = solution.fourSum(new int[]{},0);
-        lists.forEach(System.out::println);
+        System.out.println("hello world");
     }
 }
