@@ -2,7 +2,7 @@ package cn.lilq;
 
 
 
-import cn.lilq.question21.Solution;
+import cn.lilq.question22.Solution;
 
 import java.util.List;
 
@@ -13,5 +13,7 @@ import java.util.List;
 public class Test {
     public static void main(String[] args) {
         String s =  "hello world";
+        Solution solution = new Solution();
+        solution.generateParenthesis(0);
     }
 }
