@@ -27,6 +27,7 @@ leetcode 算法笔记-java
 * [24.两两交换链表中的节点--Swap Nodes in Pairs](./src/cn/lilq/question24/Solution.java)
 * [25.K 个一组翻转链表--Reverse Nodes in k-Group](./src/cn/lilq/question25/Solution.java)
 * [26.删除有序数组中的重复项--Remove Duplicates from Sorted Array](./src/cn/lilq/question26/Solution.java)
+* [27.移除元素--Remove Element](./src/cn/lilq/question27/Solution.java)
 * [42.接雨水--Trapping Rain Water](./src/cn/lilq/question42/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
