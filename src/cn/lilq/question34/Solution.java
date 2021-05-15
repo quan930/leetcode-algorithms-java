@@ -42,10 +42,4 @@ public class Solution {
         res[1] = temp;
         return res;
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] res = solution.searchRange(new int[]{},1);
-        System.out.println(Arrays.toString(res));
-    }
 }
