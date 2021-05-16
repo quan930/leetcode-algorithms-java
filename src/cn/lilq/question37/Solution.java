@@ -92,6 +92,7 @@ public class Solution {
                 }
             }
         }
+        nodes.sort(Comparator.comparingInt(o -> o.list.size()));
         return nodes;
     }
 
