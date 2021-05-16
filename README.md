@@ -9,6 +9,7 @@ leetcode 算法笔记-java
 * [34.在排序数组中查找元素的第一个和最后一个位置--Find First and Last Position of Element in Sorted Array](./src/cn/lilq/question34/Solution.java)
 * [35.搜索插入位置--Search Insert Position](./src/cn/lilq/question35/Solution.java)
 * [36.有效的数独--Valid Sudoku](./src/cn/lilq/question36/Solution.java)
+* [37.解数独--Sudoku Solver](./src/cn/lilq/question37/Solution.java)
 * [42.接雨水--Trapping Rain Water](./src/cn/lilq/question42/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
