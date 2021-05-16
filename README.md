@@ -12,6 +12,7 @@ leetcode 算法笔记-java
 * [37.解数独--Sudoku Solver](./src/cn/lilq/question37/Solution.java)
 * [38.外观数列--Count and Say](./src/cn/lilq/question38/Solution.java)
 * [39.组合总和--Combination Sum](./src/cn/lilq/question39/Solution.java)
+* [40.组合总和 II--Combination Sum II](./src/cn/lilq/question40/Solution.java)
 * [42.接雨水--Trapping Rain Water](./src/cn/lilq/question42/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
