@@ -4,6 +4,7 @@ leetcode 算法笔记-java
 * [11~20](./md/page2.md)
 * [21~30](./md/page3.md)
 * [31~40](./md/page4.md)
+* [41.缺失的第一个正数--First Missing Positive](./src/cn/lilq/question41/Solution.java)
 * [42.接雨水--Trapping Rain Water](./src/cn/lilq/question42/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
