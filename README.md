@@ -5,6 +5,7 @@ leetcode 算法笔记-java
 * [21~30](./md/page3.md)
 * [31~40](./md/page4.md)
 * [41~50](./md/page5.md)
+* [51.N 皇后--N-Queens](./src/cn/lilq/question51/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
 * [155.最小栈--Min Stack](./src/cn/lilq/question155/MinStack.java)
