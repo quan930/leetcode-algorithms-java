@@ -11,6 +11,7 @@ leetcode 算法笔记-java
 * [45.跳跃游戏 II--Jump Game II](./src/cn/lilq/question45/Solution.java)
 * [46.全排列--Permutations](./src/cn/lilq/question46/Solution.java)
 * [47.全排列 II--Permutations II](./src/cn/lilq/question47/Solution.java)
+* [48.旋转图像--Rotate Image](./src/cn/lilq/question48/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
 * [155.最小栈--Min Stack](./src/cn/lilq/question155/MinStack.java)
