@@ -14,6 +14,7 @@ leetcode 算法笔记-java
 * [57.插入区间--Insert Interval](./src/cn/lilq/question57/Solution.java)
 * [58.最后一个单词的长度--Length of Last Word](./src/cn/lilq/question58/Solution.java)
 * [59.螺旋矩阵 II--Spiral Matrix II](./src/cn/lilq/question59/Solution.java)
+* [60.排列序列--Permutation Sequence](./src/cn/lilq/question60/Solution.java)
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
 * [155.最小栈--Min Stack](./src/cn/lilq/question155/MinStack.java)
