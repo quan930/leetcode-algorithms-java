@@ -20,5 +20,6 @@ leetcode 算法笔记-java
 * [146.LRU 缓存机制--LRU Cache](./src/cn/lilq/question146/LRUCache.java)
 * [155.最小栈--Min Stack](./src/cn/lilq/question155/MinStack.java)
 * [206.反转链表--Reverse Linked List](./src/cn/lilq/question206/Solution.java)
+* [1141.给 N x 3 网格图涂色的方案数-- Number of Ways to Paint N × 3 Grid](./src/cn/lilq/question1141/Solution.java)
 * [堆排序](./src/cn/lilq/heapsort/Test.java)
 * [二分查找](./src/cn/lilq/utile/BinarySearch.java)
