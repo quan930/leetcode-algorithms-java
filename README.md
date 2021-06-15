@@ -10,6 +10,7 @@ leetcode 算法笔记-java
 * [71.简化路径--Simplify Path](./src/cn/lilq/question71/Solution.java)
 * [72.编辑距离--Edit Distance](./src/cn/lilq/question72/Solution.java)
 * [73.矩阵置零--Set Matrix Zeroes](./src/cn/lilq/question73/Solution.java)
+* [74.搜索二维矩阵--Search a 2D Matrix](./src/cn/lilq/question74/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
 * [141.环形链表--Linked List Cycle](./src/cn/lilq/question141/Solution.java)
 * [146.LRU 缓存机制--LRU Cache](./src/cn/lilq/question146/LRUCache.java)
