@@ -9,6 +9,7 @@ leetcode 算法笔记-java
 * [61~70](./md/page7.md)
 * [71~80](./md/page8.md)
 * [81.搜索旋转排序数组 II--Search in Rotated Sorted Array II](./src/cn/lilq/question81/Solution.java)
+* [82.删除排序链表中的重复元素 II--Remove Duplicates from Sorted List II](./src/cn/lilq/question82/Solution.java)
 * [84.柱状图中最大的矩形--Largest Rectangle in Histogram](./src/cn/lilq/question84/Solution.java)
 * [141.环形链表--Linked List Cycle](./src/cn/lilq/question141/Solution.java)
 * [146.LRU 缓存机制--LRU Cache](./src/cn/lilq/question146/LRUCache.java)
